@@ -47,6 +47,7 @@ src/        原型代码
 ## 快速入口
 
 - [研究路线图](docs/roadmap.md)
+- [八周学习计划](docs/study-plan.md)
 - [术语表](docs/glossary.md)
 - [第一批待读论文](research/reading-list.md)
 - [调研模板](research/paper-template.md)
